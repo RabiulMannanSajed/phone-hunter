@@ -1,0 +1,19 @@
+header{
+    background-color: bisque;
+    border-radius: 7px;
+    padding: 10px;
+}
+.card-color {
+    background-color: slategrey;
+    border-radius: 7px;
+    padding: 10px;
+}
+.alert{
+    color: red;
+    font-size: 50px;
+}
+.phonedetails-color {
+    background-color: lightgray;
+    border-radius: 7px;
+    padding: 10px;
+}
